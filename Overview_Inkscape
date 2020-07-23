@@ -1,0 +1,27 @@
+Visão Geral do programa Inkscape
+
+O Inkscape é um programa de gráficos vetoriais de qualidade profissional que roda em Windows, Mac OS X e GNU/Linux. É utilizado para a criação de uma grande variedade de gráficos, tais como ilustrações, ícones, logotipos, diagramas, mapas e gráficos da web. O Inkscape usa o padrão aberto SVG (Scalable Vector Graphics) do consórcio W3C como seu formato nativo e é uma aplicação de uso livre e de código aberto. (https://inkscape.org/pt-br/sobre/)
+O Inkscape possui ferramentas sofisticadas de desenho com recursos comparáveis ao Adobe Illustrator, CorelDRAW e Xara Xtreme. Ele pode importar e exportar diversos formatos de arquivo, incluindo SVG, AI, EPS, PDF, PS e PNG. Tem um grande conjunto de funcionalidades, uma interface simples, suporte a multi-idiomas e foi projetado para ser extensível; os usuários podem personalizar as funcionalidades do Inkscape com extensões. O projeto Inkscape tem uma comunidade internacional crescente de usuários.
+A criação de gráficos vetoriais muitas vezes é o método preferido para a criação de imagens de logotipos, ilustrações e arte que requerem alta escalabilidade. O programa Inkscape é usado em uma grande variedade de segmentos da indústria (publicidade/marcas, Engenharia/CAD, gráficos para a web, desenhos animados) e uso individual.
+
+Para iniciar um desenho no Inkscape, seguir os passos:
+1.	No menu Visualizar, escolher Personalizado, e Zoom 1:1;
+2.	Ativar a ferramenta Alinhar e Distribuir Objetos (Shift + Ctrl + A);
+3.	Ativar a ferramenta Editar Objetos (Shift + Ctrl + F);
+4.	Começar a desenhar.
+
+Vídeos demonstrativos da utilização do Inkscape: 
+https://www.youtube.com/watch?v=fjSSUHgiT28&feature=emb_title
+https://www.youtube.com/watch?v=OT97oRXZiVY&feature=emb_title
+https://www.youtube.com/watch?v=62msKgMVirQ&feature=emb_title
+https://www.youtube.com/watch?v=8Cl6IF3_n_U&feature=emb_title
+
+Para converter um desenho (símbolo) em linhas separadas e editáveis:
+1.	Selecionar o polígono;
+2.	Executar o comando Caminho -> Converter em caminho (Shift + Ctrl + C);
+3.	Selecionar o Editor de Nós (F2);
+4.	Selecionar os nós ou vértices do polígono utilizando Shift + click.
+5.	Clicar no botão de edição “Quebrar caminho nos nós selecionados”
+6.	Executar o comando Caminho -> Separar (Shift + Ctrl + K)
+
+Cada símbolo é construído a partir de diferentes estruturas. Há casos em que é necessário separar blocos que englobam diferentes elementos, e daí separar cada elemento. O procedimento de separação dos elementos vai depender da complexidade de construção de cada desenho.
