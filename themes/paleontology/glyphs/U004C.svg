@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.407mm"
+   height="2.872mm"
+   version="1.1"
+   viewBox="0 0 3.8442 1.7232"
+   id="svg51"
+   sodipodi:docname="ostracodes.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs55" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview53"
+     showgrid="false"
+     inkscape:zoom="50.009429"
+     inkscape:cx="12.107717"
+     inkscape:cy="5.4274015"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg51" />
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-44.226 -78.997)"
+     id="g49">
+    <g
+       id="Ostracodes"
+       transform="matrix(.006 0 0 .006 -72.43 -6.0235)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 20034,14177 c 26,27 43,56 43,89"
+         id="path65" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 20077,14266 c 0,102 -141,185 -314,185"
+         id="path63" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19763,14451 c -173,0 -314,-83 -314,-185"
+         id="path61" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19449,14266 c 0,-33 16,-63 41,-89"
+         id="path59" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19490,14177 h 544"
+         id="path44" />
+      <path
+         class="fil1 str0"
+         d="m19639 14178c-49 20-80 52-80 88 0 61 91 111 203 111s203-50 203-111c0-37-33-69-83-90"
+         fill="none"
+         id="path46" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.167mm"
+   height="6.167mm"
+   version="1.1"
+   viewBox="0 0 3.7002 3.7002"
+   id="svg46"
+   sodipodi:docname="foraminiferos-planctonicos.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="24.712178"
+     inkscape:cx="11.654173"
+     inkscape:cy="11.654173"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg46" />
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.091 -78.698)"
+     id="g44">
+    <g
+       id="Foraminíferos_x0020_planctônicos"
+       transform="matrix(.006 0 0 .006 -71.673 7.4265)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:none"
+         d="m 20071,12187 c 0,167 -135,302 -302,302"
+         id="path58" />
+      <path
+         style="fill:none"
+         d="m 19769,12489 c -167,0 -302,-135 -302,-302"
+         id="path56" />
+      <path
+         style="fill:none"
+         d="m 19467,12187 c 0,-167 135,-302 302,-302"
+         id="path54" />
+      <path
+         style="fill:none"
+         d="m 19769,11885 c 167,0 302,135 302,302"
+         id="path33" />
+      <g
+         fill="#fff"
+         fill-rule="nonzero"
+         id="g41">
+        <path
+           d="m 19909,12400 c 74,0 134,-60 134,-134"
+           id="path82" />
+        <path
+           d="m 20043,12266 c 0,-74 -60,-134 -134,-134"
+           id="path80" />
+        <path
+           d="m 19909,12132 c -74,0 -134,60 -134,134"
+           id="path78" />
+        <path
+           d="m 19775,12266 c 0,74 60,134 134,134"
+           id="path35" />
+        <path
+           d="m 19768,12156 c 74,0 134,-60 134,-134"
+           id="path66" />
+        <path
+           d="m 19902,12022 c 0,-74 -60,-134 -134,-134"
+           id="path64" />
+        <path
+           d="m 19768,11888 c -74,0 -134,60 -134,134"
+           id="path62" />
+        <path
+           d="m 19634,12022 c 0,74 60,134 134,134"
+           id="path37" />
+        <path
+           d="m 19631,12402 c 74,0 134,-60 134,-134"
+           id="path74" />
+        <path
+           d="m 19765,12268 c 0,-74 -60,-134 -134,-134"
+           id="path72" />
+        <path
+           d="m 19631,12134 c -74,0 -134,60 -134,134"
+           id="path70" />
+        <path
+           d="m 19497,12268 c 0,74 60,134 134,134"
+           id="path39" />
+      </g>
+    </g>
+  </g>
+</svg>

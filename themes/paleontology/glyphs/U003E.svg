@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.822mm"
+   height="6.3689mm"
+   version="1.1"
+   viewBox="0 0 1.6932 3.8213"
+   id="svg156"
+   sodipodi:docname="foraminiferos-grandes-fusulinideos.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs160" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview158"
+     showgrid="false"
+     inkscape:zoom="23.92878"
+     inkscape:cx="5.3329134"
+     inkscape:cy="12.035716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg156" />
+  <metadata
+     id="metadata147">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-46.013 -77.781)"
+     id="g154">
+    <g
+       id="Fusulinídeos"
+       transform="matrix(.006 0 0 .006 -71.787 19.592)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19640,10042 c -7,-203 130,-335 130,-335"
+         id="path169" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19770,9707 c 0,0 132,130 139,340"
+         id="path167" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19909,10047 c 7,209 -139,278 -139,278"
+         id="path165" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19770,10325 v -1 c 0,0 -124,-79 -130,-282"
+         id="path149" />
+      <path
+         style="fill:none"
+         d="m 19770,9707 v 611"
+         id="line151" />
+    </g>
+  </g>
+</svg>

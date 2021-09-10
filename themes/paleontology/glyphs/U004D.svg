@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.207mm"
+   height="2.407mm"
+   version="1.1"
+   viewBox="0 0 3.7242 1.4442"
+   id="svg106"
+   sodipodi:docname="palinomorfos.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs110" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview108"
+     showgrid="false"
+     inkscape:zoom="51.62082"
+     inkscape:cx="11.729763"
+     inkscape:cy="4.5486615"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg106" />
+  <metadata
+     id="metadata95">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-44.037 -79.517)"
+     id="g104">
+    <g
+       id="Simb.Genérica_Palinomorfos"
+       transform="matrix(.006 0 0 .006 -72.601 -11.963)"
+       clip-rule="evenodd"
+       fill="#fff"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         d="m 19750,15443 c 42,0 76,-34 76,-76"
+         id="path126" />
+      <path
+         d="m 19826,15367 c 0,-42 -34,-76 -76,-76"
+         id="path124" />
+      <path
+         d="m 19750,15291 c -42,0 -76,34 -76,76"
+         id="path122" />
+      <path
+         d="m 19674,15367 c 0,42 34,76 76,76"
+         id="path97" />
+      <path
+         d="m 19939,15481 c 63,0 115,-51 115,-114"
+         id="path134" />
+      <path
+         d="m 20054,15367 c 0,-63 -51,-114 -115,-114"
+         id="path132" />
+      <path
+         d="m 19939,15253 c -63,0 -114,51 -114,114"
+         id="path130" />
+      <path
+         d="m 19825,15367 c 0,63 51,114 114,114"
+         id="path99" />
+      <path
+         d="m 19560,15481 c 63,0 115,-51 115,-114"
+         id="path118" />
+      <path
+         d="m 19675,15367 c 0,-63 -51,-114 -115,-114"
+         id="path116" />
+      <path
+         d="m 19560,15253 c -63,0 -114,51 -114,114"
+         id="path114" />
+      <path
+         d="m 19446,15367 c 0,63 51,114 114,114"
+         id="path101" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.3158mm"
+   height="6.065mm"
+   version="1.1"
+   viewBox="0 0 3.1894 3.639"
+   id="svg65"
+   sodipodi:docname="radiolarios.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs69" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview67"
+     showgrid="false"
+     inkscape:zoom="114.66782"
+     inkscape:cx="16.330918"
+     inkscape:cy="14.823399"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65" />
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-43.923 -80.318)"
+     id="g63">
+    <g
+       id="Radiolários"
+       transform="matrix(.006 0 0 .006 -73.073 -42.63)"
+       clip-rule="evenodd"
+       fill="#fff"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         d="m 19765,20492 19,158"
+         id="path89" />
+      <path
+         d="m 19784,20650 h -37"
+         id="path87" />
+      <path
+         d="m 19747,20650 18,-158"
+         id="polygon48" />
+      <path
+         d="m 19505,20942 125,-95"
+         id="path109" />
+      <path
+         d="m 19630,20847 17,32"
+         id="path107" />
+      <path
+         d="m 19647,20879 -142,63"
+         id="polygon50" />
+      <path
+         d="m 20026,20943 -145,-58"
+         id="path97" />
+      <path
+         d="m 19881,20885 18,-32"
+         id="path95" />
+      <path
+         d="m 19899,20853 127,90"
+         id="polygon52" />
+      <path
+         d="m 19911,20795 c 0,81 -65,146 -146,146"
+         id="path83" />
+      <path
+         d="m 19765,20941 c -81,0 -146,-65 -146,-146"
+         id="path81" />
+      <path
+         d="m 19619,20795 c 0,-81 65,-146 146,-146"
+         id="path79" />
+      <path
+         d="m 19765,20649 c 81,0 146,65 146,146"
+         id="path54" />
+      <path
+         d="m 19864,20767 -23,-41"
+         id="path121" />
+      <path
+         d="m 19841,20726 186,-81"
+         id="path119" />
+      <path
+         d="m 20027,20645 -163,122"
+         id="polygon56" />
+      <path
+         d="m 19503,20644 187,80"
+         id="path115" />
+      <path
+         d="m 19690,20724 -23,41"
+         id="path113" />
+      <path
+         d="m 19667,20765 -164,-121"
+         id="polygon58" />
+      <path
+         d="m 19765,21097 -23,-203"
+         id="path103" />
+      <path
+         d="m 19742,20894 h 47"
+         id="path101" />
+      <path
+         d="m 19789,20894 -24,203"
+         id="polygon60" />
+    </g>
+  </g>
+</svg>

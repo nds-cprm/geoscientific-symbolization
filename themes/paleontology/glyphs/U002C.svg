@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.3471mm"
+   height="6.147mm"
+   version="1.1"
+   viewBox="0 0 3.2083 3.6882"
+   id="svg38"
+   sodipodi:docname="cefalopodes.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="24.792582"
+     inkscape:cx="10.104755"
+     inkscape:cy="11.616378"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-46.313 -76.058)"
+     id="g36">
+    <g
+       id="Cefalópode_Genérico"
+       transform="matrix(.006 0 0 .006 9.2354 -72.494)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6708,25058 c 0,171 -138,309 -309,309"
+         id="path59" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6399,25367 c -83,0 -158,-33 -213,-85"
+         id="path57" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6186,25282 c 0,0 -2,-51 36,-111"
+         id="path55" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6222,25171 c 38,-60 87,-88 87,-88"
+         id="path53" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6309,25083 c -28,-34 -45,-77 -45,-124"
+         id="path51" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6264,24959 c 0,-107 87,-194 194,-194"
+         id="path49" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6458,24765 c 40,0 77,12 108,33"
+         id="path47" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6566,24798 2,1 c 84,55 140,151 140,259"
+         id="path29" />
+      <path
+         class="fil2 str0"
+         d="m6456 24956c0 8-6 14-14 14s-14-7-14-14c0-8 7-14 14-14 8 0 14 6 14 14z"
+         fill-rule="nonzero"
+         id="path31" />
+      <path
+         style="fill:none"
+         d="m 6308,25083 143,-117"
+         id="line33" />
+    </g>
+  </g>
+</svg>

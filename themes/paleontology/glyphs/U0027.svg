@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.2425mm"
+   height="6.3526mm"
+   version="1.1"
+   viewBox="0 0 2.5455 3.8116"
+   id="svg70"
+   sodipodi:docname="aracnideo.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs74" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview72"
+     showgrid="false"
+     inkscape:zoom="23.990177"
+     inkscape:cx="8.0173225"
+     inkscape:cy="12.004914"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-42.038 -74.617)"
+     id="g68">
+    <g
+       id="Aracnídeo"
+       transform="matrix(.006 0 0 .006 4.8358 16.44)"
+       clip-rule="evenodd"
+       fill="#fff"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         d="m 6438,9857 c 0,24 -11,43 -25,43 -14,0 -25,-19 -25,-43"
+         id="path124" />
+      <path
+         d="m 6388,9857 c 0,-24 11,-43 25,-43"
+         id="path122" />
+      <path
+         d="m 6413,9814 c 14,0 25,19 25,43"
+         id="path45" />
+      <path
+         d="m 6444,9954 c 0,30 -14,54 -31,54 -17,0 -31,-24 -31,-54"
+         id="path118" />
+      <path
+         d="m 6382,9954 c 0,-30 14,-54 31,-54"
+         id="path116" />
+      <path
+         d="m 6413,9900 c 17,0 31,24 31,54"
+         id="path47" />
+      <path
+         d="m 6452,10075 c 0,37 -18,67 -39,67"
+         id="path112" />
+      <path
+         d="m 6413,10142 c -22,0 -39,-30 -39,-67"
+         id="path110" />
+      <path
+         d="m 6374,10075 c 0,-37 18,-67 39,-67"
+         id="path108" />
+      <path
+         d="m 6413,10008 c 22,0 39,30 39,67"
+         id="path49" />
+      <path
+         style=""
+         d="m 6269,9699 113,241 5,-18 z"
+         id="polygon51" />
+      <path
+         style=""
+         d="m 6205,9781 177,188 -1,-18 z"
+         id="polygon53" />
+      <path
+         style=""
+         d="m 6238,10193 156,-195 -6,-11 z"
+         id="polygon55" />
+      <path
+         style=""
+         d="m 6373,10076 -8,5 -39,249 49,-236 z"
+         id="polygon57" />
+      <path
+         style=""
+         d="m 6556,9699 -112,241 -5,-18 z"
+         id="polygon59" />
+      <path
+         style=""
+         d="m 6620,9781 -177,188 2,-18 z"
+         id="polygon61" />
+      <path
+         style=""
+         d="m 6587,10193 -156,-195 7,-11 z"
+         id="polygon63" />
+      <path
+         style=""
+         d="m 6453,10076 8,5 38,249 -48,-236 z"
+         id="polygon65" />
+    </g>
+  </g>
+</svg>

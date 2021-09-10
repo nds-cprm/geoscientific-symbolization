@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.4878mm"
+   height="6.1676mm"
+   version="1.1"
+   viewBox="0 0 3.8927 3.7006"
+   id="svg49"
+   sodipodi:docname="equinodermos.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs53" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="24.709773"
+     inkscape:cx="12.26041"
+     inkscape:cy="11.655307"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg49" />
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.25 -76.23)"
+     id="g47">
+    <g
+       id="Genérico"
+       transform="matrix(.006 0 0 .006 8.5504 -39.974)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6441,19368 c 0,0 25,237 58,259"
+         id="path73" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6499,19627 c 33,23 264,-25 264,-25"
+         id="path71" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6763,19602 c 0,0 -223,90 -229,135"
+         id="path69" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6534,19737 c -6,45 106,243 106,243"
+         id="path67" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6640,19980 c 0,0 -147,-175 -199,-176"
+         id="path65" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6441,19804 c -52,-1 -199,176 -199,176"
+         id="path63" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6242,19980 c 0,0 127,-194 106,-243"
+         id="path61" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6348,19737 c -21,-50 -229,-135 -229,-135"
+         id="path59" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6119,19602 c 0,0 231,51 264,25"
+         id="path57" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6383,19627 c 33,-25 58,-259 58,-259"
+         id="path42" />
+      <path
+         class="fil1 str0"
+         d="m6440 19585v132l-72 94m148-4-76-90-120-46m245-2-125 48"
+         fill="none"
+         id="path44" />
+    </g>
+  </g>
+</svg>

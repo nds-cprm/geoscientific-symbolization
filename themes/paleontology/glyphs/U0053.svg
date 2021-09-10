@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.2816mm"
+   height="5.9116mm"
+   version="1.1"
+   viewBox="0 0 3.769 3.547"
+   id="svg64"
+   sodipodi:docname="polen-esporos.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs68" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview66"
+     showgrid="false"
+     inkscape:zoom="25.779822"
+     inkscape:cx="11.87074"
+     inkscape:cy="11.171528"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg64" />
+  <metadata
+     id="metadata55">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-44.128 -80.83)"
+     id="g62">
+    <g
+       id="Pólen_x002f_Esporos"
+       transform="matrix(.006 0 0 .006 -72.347 -35.805)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19428,19499 c -29,42 15,90 59,115"
+         id="path92" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19487,19614 c 44,24 135,60 152,113"
+         id="path90" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19639,19727 c 18,53 24,174 26,209"
+         id="path88" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19665,19936 c 2,35 22,88 77,88"
+         id="path86" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19742,20024 c 55,0 95,-35 93,-84"
+         id="path84" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19835,19940 c -2,-48 -18,-130 0,-165"
+         id="path82" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19835,19775 c 17,-35 159,-146 181,-174"
+         id="path80" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 20016,19601 c 22,-29 27,-71 0,-108"
+         id="path78" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 20016,19493 c -26,-38 -73,-60 -125,-40"
+         id="path76" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19891,19453 c -53,20 -93,68 -150,71"
+         id="path74" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19741,19524 c -57,2 -161,-22 -201,-51"
+         id="path72" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19540,19473 c -40,-29 -84,-15 -112,26"
+         id="path57" />
+      <path
+         style="fill:none"
+         d="m 19523,19563 c 0,0 207,84 214,97 6,13 22,260 20,267"
+         id="path96" />
+      <path
+         style="fill:none"
+         d="m 19931,19548 -192,113"
+         id="path59" />
+    </g>
+  </g>
+</svg>

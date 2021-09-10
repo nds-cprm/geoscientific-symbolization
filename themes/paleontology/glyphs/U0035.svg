@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.3377mm"
+   height="6.1935mm"
+   version="1.1"
+   viewBox="0 0 2.0026 3.7161"
+   id="svg88"
+   sodipodi:docname="dinoflagelados.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs92" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview90"
+     showgrid="false"
+     inkscape:zoom="24.606442"
+     inkscape:cx="6.3074644"
+     inkscape:cy="11.704252"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg88" />
+  <metadata
+     id="metadata79">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-44.879 -77.895)"
+     id="g86">
+    <g
+       id="Dinoflagelados"
+       transform="matrix(.006 0 0 .006 -72.611 -32.001)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19904,18658 c 16,90 -10,176 -19,209"
+         id="path110" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19885,18867 c -9,32 -28,51 -40,53"
+         id="path108" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19845,18920 c -12,1 -69,-37 -69,-37"
+         id="path106" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19776,18883 c 0,0 -38,46 -74,46"
+         id="path104" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19702,18929 c -35,0 -90,-43 -98,-66"
+         id="path102" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19604,18863 c -9,-24 -19,-166 -15,-198"
+         id="path100" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19589,18665 c 4,-32 25,-93 51,-131"
+         id="path98" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19640,18534 c 26,-38 116,-140 116,-140"
+         id="path96" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 19756,18394 1,-1 c 0,0 131,175 147,265"
+         id="path81" />
+      <path
+         class="fil1 str0"
+         d="m19591 18724c56 21 107 24 141 24s129-3 175-29m-313 66c46 18 107 19 153 19s96 2 156-25m-153-127c18 0 33-15 33-33s-15-33-33-33-33 15-33 33 15 33 33 33zm7-336v78"
+         fill="none"
+         id="path83" />
+    </g>
+  </g>
+</svg>

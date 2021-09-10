@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.4372mm"
+   height="6.1859mm"
+   version="1.1"
+   viewBox="0 0 2.6623 3.7116"
+   id="svg34"
+   sodipodi:docname="plantas.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="24.636673"
+     inkscape:cx="8.38526"
+     inkscape:cy="11.68989"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-46.09 -77.868)"
+     id="g32">
+    <g
+       id="Plantas_Simb._Genérica"
+       transform="matrix(.006 0 0 .006 -31.169 -6.2163)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13279,14239 c 65,139 24,202 -2,213"
+         id="path52" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13277,14452 c -87,36 -148,-17 -182,-17"
+         id="path50" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13095,14435 c -11,0 -118,76 -178,15"
+         id="path48" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 12917,14450 c -61,-61 -28,-148 4,-182"
+         id="path46" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 12921,14268 c 33,-35 93,-87 93,-128"
+         id="path44" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13014,14140 c 0,-41 -26,-106 -50,-113"
+         id="path42" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 12964,14027 v -1 c -69,-19 215,0 315,213"
+         id="path27" />
+      <path
+         class="fil1 str0"
+         d="m13012 14627c61-33 103-119 83-193"
+         fill="none"
+         id="path29" />
+    </g>
+  </g>
+</svg>

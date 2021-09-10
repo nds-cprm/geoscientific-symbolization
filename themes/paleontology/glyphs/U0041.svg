@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.3104mm"
+   height="6.2328mm"
+   version="1.1"
+   viewBox="0 0 1.9863 3.7397"
+   id="svg34"
+   sodipodi:docname="gastropodes.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="24.45129"
+     inkscape:cx="6.255874"
+     inkscape:cy="11.77852"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-46.118 -76.016)"
+     id="g32">
+    <g
+       id="Gastrópode_Genérico"
+       transform="matrix(.006 0 0 .006 -31.602 43.602)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13074,5922 c 49,2 70,32 68,58"
+         id="path60" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13142,5980 c -2,26 -36,41 -77,39"
+         id="path58" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13065,6019 c -41,-2 -70,-7 -96,-49"
+         id="path56" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 12969,5970 c -26,-43 7,-207 41,-311"
+         id="path54" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13010,5659 c 34,-104 104,-239 128,-250"
+         id="path52" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13138,5409 c 24,-10 19,144 51,229"
+         id="path50" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13189,5638 c 33,86 89,166 89,178"
+         id="path48" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13278,5816 c 0,26 -62,58 -77,73"
+         id="path46" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13201,5889 c -15,15 -29,24 -62,72"
+         id="path44" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13139,5961 -67,-39"
+         id="path42" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13072,5922 h 2"
+         id="path27" />
+      <path
+         class="fil1 str0"
+         d="m12963 5946c9-45 90-73 130-88 47-18 98-38 180-33m-308 49c11-38 66-69 76-72s42-18 88-31c47-13 74-16 116-14m-267 24c18-39 62-58 75-64 14-6 44-19 67-23 38-7 55-10 92-2m-204-26c16-24 65-48 84-52 19-5 54-13 88-3m-121-72c19-22 41-24 52-24s35-1 51 3"
+         fill="none"
+         id="path29" />
+    </g>
+  </g>
+</svg>

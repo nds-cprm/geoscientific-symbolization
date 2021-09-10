@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="6.194mm" height="4.8575mm" version="1.1" viewBox="0 0 3.7164 2.9145" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-45.806 -77.425)">
+  <g id="Silicoflagelados" transform="matrix(.006 0 0 .006 -70.919 -52.383)" clip-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision">
+   <polygon class="fil0 str0" points="19920 21861 19781 21722 19764 21659 19747 21722 19608 21861 19455 21877 19608 21894 19747 22033 19764 22096 19781 22033 19920 21894 20073 21877" fill="#fff" stroke="#000" stroke-width="12.7"/>
+   <g>
+    <polygon class="fil2" points="19764 21753 19713 21803 19734 21861 19794 21861 19816 21804"/>
+    <polygon class="fil2" points="19846 21921 19889 21877 19842 21830 19824 21877"/>
+    <polygon class="fil2" points="19795 21894 19733 21894 19708 21947 19764 22003 19820 21946"/>
+    <polygon class="fil2" points="19639 21878 19683 21921 19705 21878 19687 21829"/>
+   </g>
+  </g>
+ </g>
+</svg>

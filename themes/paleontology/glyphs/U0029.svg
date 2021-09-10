@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.1109mm"
+   height="1.9139mm"
+   version="1.1"
+   viewBox="0 0 3.6665 1.1483"
+   id="svg34"
+   sodipodi:docname="belemnoids.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="52.432607"
+     inkscape:cx="11.548157"
+     inkscape:cy="3.6168189"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.767 -77.558)"
+     id="g32">
+    <g
+       id="Belemnoids"
+       transform="matrix(.006 0 0 .006 9.1838 -85.512)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6474,27318 -376,-44"
+         id="path51" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6098,27274 376,-44"
+         id="path49" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6474,27230 228,-44"
+         id="path47" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6702,27186 v 88"
+         id="path45" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6702,27274 v 88"
+         id="path43" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 6702,27362 -228,-44"
+         id="polygon27" />
+      <path
+         class="fil1 str0"
+         d="m6553 27215-17 59 17 59m-64-106-17 47 17 47m-64-85-17 38 17 38m-64-69-17 31 17 31m-64-54-17 24 17 23m-64-39-17 16 17 16"
+         fill="none"
+         id="path29" />
+    </g>
+  </g>
+</svg>

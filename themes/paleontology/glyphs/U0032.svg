@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.307mm"
+   height="6.297mm"
+   version="1.1"
+   viewBox="0 0 3.7842 3.7782"
+   id="svg110"
+   sodipodi:docname="crinoides.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs114" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview112"
+     showgrid="false"
+     inkscape:zoom="24.202001"
+     inkscape:cx="11.91874"
+     inkscape:cy="11.899842"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg110" />
+  <metadata
+     id="metadata101">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.03 -76.312)"
+     id="g108">
+    <g
+       id="Crinóides"
+       transform="matrix(.006 0 0 .006 8.1445 -46.446)"
+       clip-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff"
+         d="m 6463,21083 c 170,0 309,-138 309,-309"
+         id="path128" />
+      <path
+         style="fill:#ffffff"
+         d="m 6772,20774 c 0,-170 -138,-308 -309,-308"
+         id="path126" />
+      <path
+         style="fill:#ffffff"
+         d="m 6463,20466 c -170,0 -309,138 -309,308"
+         id="path124" />
+      <path
+         style="fill:#ffffff"
+         d="m 6154,20774 c 0,171 138,309 309,309"
+         id="path103" />
+      <path
+         d="m 6460,20887 c 64,0 116,-52 116,-116 0,-64 -52,-116 -116,-116 -64,0 -116,52 -116,116 0,64 52,116 116,116 z"
+         id="path105" />
+    </g>
+  </g>
+  <path
+     style="stroke-width:0.0413189;fill:#000000"
+     d="M 11.038648,16.304124 C 10.101676,16.136863 9.316346,15.734334 8.6230241,15.06597 8.0084024,14.473473 7.5871141,13.761217 7.3525517,12.918032 7.2467079,12.537554 7.2384032,12.45233 7.2400461,11.76349 7.2416563,11.088348 7.2521071,10.98164 7.3533536,10.606561 7.4863802,10.113749 7.8357173,9.3886397 8.1207617,9.0136726 9.9085373,6.6619095 13.337798,6.5403043 15.281438,8.7597475 c 1.555192,1.7758735 1.482717,4.5129105 -0.164094,6.1971435 -1.070202,1.09452 -2.622346,1.607209 -4.078696,1.347233 z"
+     id="path130"
+     inkscape:connector-curvature="0"
+     transform="scale(0.15875)" />
+  <path
+     style="fill:#000000;stroke-width:0.0413189"
+     d="M 11.038648,16.306385 C 10.051801,16.119798 9.3311478,15.748603 8.6144995,15.057752 7.881256,14.350903 7.3985889,13.424006 7.2560204,12.448973 7.1787166,11.92029 7.2259932,11.072591 7.3598443,10.587348 7.8738136,8.7240834 9.4230541,7.4045098 11.347933,7.1904733 c 1.351388,-0.1502674 2.726647,0.3463607 3.721766,1.3439893 1.917913,1.9227484 1.747443,5.0925584 -0.365783,6.8015824 -0.464988,0.376048 -1.201517,0.748903 -1.764599,0.893296 -0.531973,0.136416 -1.400462,0.171621 -1.900669,0.07704 z"
+     id="path132"
+     inkscape:connector-curvature="0"
+     transform="scale(0.15875)" />
+</svg>

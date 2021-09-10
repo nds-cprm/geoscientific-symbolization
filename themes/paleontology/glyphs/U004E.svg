@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.247mm"
+   height="5.937mm"
+   version="1.1"
+   viewBox="0 0 3.7482 3.5622"
+   id="svg74"
+   sodipodi:docname="pegadas.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs78" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview76"
+     showgrid="false"
+     inkscape:zoom="25.669531"
+     inkscape:cx="11.805355"
+     inkscape:cy="11.219527"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg74" />
+  <metadata
+     id="metadata61">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.137 -77.651)"
+     id="g72">
+    <g
+       id="Pegadas"
+       transform="matrix(.006 0 0 .006 -31.745 -90.431)"
+       clip-rule="evenodd"
+       fill="#fff"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         d="m 13069,28484 c 96,0 97,-77 97,-173"
+         id="path86" />
+      <path
+         d="m 13166,28311 c 0,-95 -1,-173 -97,-173"
+         id="path84" />
+      <path
+         d="m 13069,28138 c -96,0 -249,77 -249,173"
+         id="path82" />
+      <path
+         d="m 12820,28311 c 0,96 154,173 249,173"
+         id="path63" />
+      <path
+         d="m 13235,28601 c 35,0 63,-29 63,-64"
+         id="path110" />
+      <path
+         d="m 13298,28537 c 0,-35 -28,-64 -63,-64"
+         id="path108" />
+      <path
+         d="m 13235,28473 c -35,0 -64,28 -64,64"
+         id="path106" />
+      <path
+         d="m 13171,28537 c 0,35 28,64 64,64"
+         id="path65" />
+      <path
+         d="m 13235,28148 c 35,0 63,-29 63,-64"
+         id="path94" />
+      <path
+         d="m 13298,28084 c 0,-35 -28,-64 -63,-64"
+         id="path92" />
+      <path
+         d="m 13235,28020 c -35,0 -64,29 -64,64"
+         id="path90" />
+      <path
+         d="m 13171,28084 c 0,35 28,64 64,64"
+         id="path67" />
+      <path
+         d="m 13368,28375 c 35,0 64,-29 64,-64"
+         id="path102" />
+      <path
+         d="m 13432,28311 c 0,-35 -29,-64 -64,-64"
+         id="path100" />
+      <path
+         d="m 13368,28247 c -35,0 -64,28 -64,64"
+         id="path98" />
+      <path
+         d="m 13304,28311 c 0,35 28,64 64,64"
+         id="path69" />
+    </g>
+  </g>
+</svg>

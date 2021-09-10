@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7.7531mm"
+   height="3.8877mm"
+   version="1.1"
+   viewBox="0 0 4.6519 2.3326"
+   id="svg42"
+   sodipodi:docname="peixes.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs46" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview44"
+     showgrid="false"
+     inkscape:zoom="39.200555"
+     inkscape:cx="14.651527"
+     inkscape:cy="7.3468348"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.893 -77.427)"
+     id="g40">
+    <g
+       id="Peixes"
+       transform="matrix(.006 0 0 .006 -30.535 11.95)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="12.7">
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13173,11007 c 177,0 329,123 329,123"
+         id="path58" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13502,11130 c 0,0 -145,81 -320,81"
+         id="path56" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 13182,11211 c -100,0 -208,-48 -291,-108"
+         id="path54" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 12891,11103 -3,-2"
+         id="path52" />
+      <path
+         style="fill:#ffffff;fill-rule:nonzero"
+         d="m 12888,11101 1,1 c 83,-49 191,-95 284,-95"
+         id="path31" />
+      <path
+         class="fil1 str0"
+         d="m12743 11212c17-22 72-68 144-110l2-1c-61-44-109-95-132-137"
+         fill="none"
+         id="path33" />
+      <path
+         style="fill-rule:nonzero"
+         d="m 13176,11211 59,-3 -94,89 z"
+         id="polygon35" />
+      <path
+         style="fill-rule:nonzero"
+         d="m 13269,11017 -54,-9 -4,-92 z"
+         id="polygon37" />
+    </g>
+  </g>
+</svg>
