@@ -12,10 +12,12 @@
 
 ![](https://via.placeholder.com/640x200.png?text=Screenshot+de+exemplo)
 
-## Installation
+## Instalação do arquivo de fontes no Windows
 Windows:
 
 Clicar com o botão direito sobre o arquivo de fonte OTF e “Instalar” ou “Instalar para todos os usuários”.
+
+### Visualização dos símbolos no programa QGIS
 
 No programa QGIS, clicar com o botão direito sobre uma camada vetorial, clicar em “Propriedades”.
 
