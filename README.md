@@ -17,7 +17,9 @@ Windows:
 
 Clicar com o botão direito sobre o arquivo de fonte OTF e “Instalar” ou “Instalar para todos os usuários”.
 
-### Visualização dos símbolos no programa QGIS
+## Visualização da biblioteca de símbolos
+
+### QGIS Desktop
 
 No programa QGIS, clicar com o botão direito sobre uma camada vetorial, clicar em “Propriedades”.
 
@@ -28,6 +30,12 @@ Em “Tipo da camada símbolo”, escolher “Marcador de fonte”.
 Em “Fonte”, escolher o nome do arquivo de fonte instalado.
 
 Os símbolos do arquivo instalado poderão ser visualizados no seletor.
+
+### ArcGIS Desktop
+(Em preparação)
+
+### ArcGIS Pro
+(Em preparação)
 
 <!---
 OS X & Linux:
