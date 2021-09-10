@@ -16,10 +16,15 @@
 Windows:
 
 Clicar com o botão direito sobre o arquivo de fonte OTF e “Instalar” ou “Instalar para todos os usuários”.
-No programa QGIS, clicar com o botão direito sobre uma camada vetorial, clicar em “Propriedades”. 
-Na guia “Simbologia”, escolher “Símbolo simples”, depois “Marcador”, e depois “Marcador simples”. 
-Em “Tipo da camada símbolo”, escolher “Marcador de fonte”. 
-Em “Fonte”, escolher o nome do arquivo de fonte instalado. 
+
+No programa QGIS, clicar com o botão direito sobre uma camada vetorial, clicar em “Propriedades”.
+
+Na guia “Simbologia”, escolher “Símbolo simples”, depois “Marcador”, e depois “Marcador simples”.
+
+Em “Tipo da camada símbolo”, escolher “Marcador de fonte”.
+
+Em “Fonte”, escolher o nome do arquivo de fonte instalado.
+
 Os símbolos do arquivo instalado poderão ser visualizados no seletor.
 
 <!---
