@@ -1,0 +1,1716 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="acritarcos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/acritarcos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="algas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/algas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="amonoides" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/amonoides.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="anelideos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/anelideos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="15" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="anfibios" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/anfibios.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="angiospermas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/angiospermas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="aracnideo" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/aracnideo.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="artropoda" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/artropoda.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="belemnoids" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/belemnoids.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="35" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="braquiopodes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/braquiopodes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="briozoarios" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/briozoarios.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="cefalopodes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/cefalopodes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="2" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="cnidarios" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/cnidarios.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="coniferas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/coniferas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="conodontes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/conodontes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="coprolitos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/coprolitos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="corais" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/corais.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="crinoides" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/crinoides.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="crustaceos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/crustaceos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="diatomaceas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/diatomaceas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="dinoflagelados" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/dinoflagelados.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="equinodermos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/equinodermos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="equinoides" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/equinoides.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="espiculas-poriferos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/espiculas-poriferos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="esponjas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/esponjas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="estromatolitos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/estromatolitos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="folhas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/folhas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="foraminiferos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/foraminiferos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="foraminiferos-bentonicos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/foraminiferos-bentonicos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="foraminiferos-grandes-fusulinideos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/foraminiferos-grandes-fusulinideos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="foraminiferos-planctonicos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/foraminiferos-planctonicos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="fungos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/fungos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="gastropodes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/gastropodes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="graptolitos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/graptolitos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="insetos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/insetos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="invertebrados" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/invertebrados.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="macrofosseis" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/macrofosseis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="madeira-fossil" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/madeira-fossil.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="mamiferos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/mamiferos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="microfosseis" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/microfosseis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="25" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="moluscos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/moluscos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="nanofosseis-calcario" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/nanofosseis-calcario.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="nautiloides" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/nautiloides.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="ostracodes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/ostracodes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="palinomorfos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/palinomorfos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="pegadas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/pegadas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="peixes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/peixes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="pelecipodes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/pelecipodes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="perfuracoes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/perfuracoes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="plantas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/plantas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="polen-esporos" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/polen-esporos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="quitinozoarios" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/quitinozoarios.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="radiolarios" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/radiolarios.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="raizes" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/raizes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="repteis" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/repteis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="samambaias" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/samambaias.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="silicoflagelados" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/silicoflagelados.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="stromatoporoids" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/stromatoporoids.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="tracos-fosseis" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/tracos-fosseis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="trilobitas" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/trilobitas.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol force_rhr="0" type="marker" alpha="1" clip_to_extent="1" name="vertebrados" tags="Paleontologia">
+      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="paleontologia/vertebrados.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+</qgis_style>
