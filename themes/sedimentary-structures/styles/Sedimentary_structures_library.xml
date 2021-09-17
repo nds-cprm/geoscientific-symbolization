@@ -1,0 +1,1744 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol type="marker" clip_to_extent="1" name="Azimute_paleocorrente" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Azimute_paleocorrente.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Bimodalidade_graos" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Bimodalidade_graos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Brecha_colapso" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Brecha_colapso.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Caliche" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Caliche.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Concrecao_calcitica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Concrecao_calcitica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Concrecao_dolomitica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Concrecao_dolomitica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Concrecao_ferro_manganesifera" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Concrecao_ferro_manganesifera.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Concrecao_fosfatica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Concrecao_fosfatica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Concrecao_piritosa" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Concrecao_piritosa.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Concrecao_silicosa" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Concrecao_silicosa.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Cone_in_cone" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Cone_in_cone.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Crosta" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Crosta.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Dique_clastico" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Dique_clastico.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estilolito" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estilolito.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_acanalada" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_acanalada.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_baixo_angulo" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_baixo_angulo.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_espinha_peixe" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_espinha_peixe.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_hummocky" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_hummocky.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_sigmoidal" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_sigmoidal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_swaley" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_swaley.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_tabular" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_tabular.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_cruzada_tangencial" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_cruzada_tangencial.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estratificacao_mare" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estratificacao_mare.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_bola_almofada" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_bola_almofada.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_chama" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_chama.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_convoluta" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_convoluta.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_corte_preenchimento" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_corte_preenchimento.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_escorregamento" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_escorregamento.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_pilar" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_pilar.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Estrutura_pires" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Estrutura_pires.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Filme_argila" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Filme_argila.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Geodo" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Geodo.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Gradacao_inversa" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Gradacao_inversa.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Gradacao_normal" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Gradacao_normal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Greta_contracao" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Greta_contracao.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Imbricacao_seixos" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Imbricacao_seixos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Intraclastos" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Intraclastos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Laminacao_Estratificacao_plano_paralela" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Laminacao_Estratificacao_plano_paralela.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Laminacao_flaser" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Laminacao_flaser.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Laminacao_linsen" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Laminacao_linsen.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Laminacao_wavy" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Laminacao_wavy.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Lineacao_particao" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Lineacao_particao.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Macico" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Macico.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_carga" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_carga.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_chuva" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_chuva.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_estria_glacial" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_estria_glacial.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_adesao" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_adesao.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_assimetrica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_assimetrica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_cavalgante" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_cavalgante.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_cavalgante_critica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_cavalgante_critica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_cavalgante_fase" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_cavalgante_fase.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_cavalgante_subcritica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_cavalgante_subcritica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_cavalgante_supercritica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_cavalgante_supercritica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_interferencia" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_interferencia.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_ondul_simetrica" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_ondul_simetrica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Marca_sola" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Marca_sola.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Mud_couplet" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Mud_couplet.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Olho_passaro" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Olho_passaro.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Roseta" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Roseta.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Seixo_pingado" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Seixo_pingado.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Tepee" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Tepee.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="20" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" name="Vulcao_lama" alpha="1" force_rhr="0" tags="Estruturas_sedimentares">
+      <layer locked="0" enabled="1" pass="0" class="SvgMarker">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="estruturas_sedimentares/Vulcao_lama.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+</qgis_style>
