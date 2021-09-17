@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="0.54659998mm"
+   height="0.54659998mm"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 0.54659998 0.54659998"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="Lineação mineral vertical.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="152.23096"
+   inkscape:cx="0.56286567"
+   inkscape:cy="0.42724802"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Camada_x0020_1"
+   transform="matrix(0.06516013,0,0,0.0651602,-6.6032579,-9.3852148)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 105.48,148.474 c -0.0754,0 -0.1396,-0.0267 -0.1934,-0.0801 -0.0534,-0.0537 -0.0801,-0.118 -0.0801,-0.1934 0,-0.075 0.0267,-0.1393 0.0801,-0.193 0.0538,-0.0534 0.118,-0.0801 0.1934,-0.0801 0.075,0 0.1393,0.0267 0.193,0.0801 0.0534,0.0537 0.0801,0.118 0.0801,0.193 0,0.0754 -0.0267,0.1397 -0.0801,0.1934 -0.0537,0.0534 -0.118,0.0801 -0.193,0.0801 z"
+   id="path7"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;fill-rule:nonzero" />
+ </g>
+</svg>
