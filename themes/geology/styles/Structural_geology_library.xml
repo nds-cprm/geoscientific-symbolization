@@ -1,0 +1,3032 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Acamadamento" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Iacute__Acamadamento.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Acamadamento_horizonta" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/I__Acamadamento_horizontal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Acamadamento_igneo" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/C__Acamadamento_igneo.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Acamadamento_vulcanocastico_vertical" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/ugrave_Acamadamento_vulcanocastico_vertical.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Acircumflex" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Acircumflex.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Acumulacao_cristais" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/colon__Acumulacao_cristais.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Adieresis" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Adieresis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="B" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/B.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Brecha_falha" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/hyphen__Brecha_falha.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Brecha_hitrotermal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/comma__Brecha_hitrotermal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Cavalgamento_tipo_duplex" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/eight__Cavalgamento_tipo_duplex.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Cavalgamento_tipo_leques_imbricados" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Aacute__Cavalgamento_tipo_leques_imbricados.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Cavalgamentos_divergentes_tipo_pop_up" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/bracketleft__Cavalgamentos_divergentes_tipo_pop_up.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Cavalgamentos_tipo_zona_triangular" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/onehalf__Cavalgamentos_tipo_zona_triangular.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Clivagem_solucao_por_pressao" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Icircumflex__Clivagem_solucao_por_pressao.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Corpos_intrusivos_fora_escala_kimberlitos_carbonatitos" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Egrave__Corpos_intrusivos_fora_escala_kimberlitos_carbonatitos.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="D" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/D.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Deposito_mineral" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/uni00AD__Deposito_mineral.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra _horizontal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/uacute_Dobra _horizontal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_arrasto" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/uni00B9__Dobra_arrasto.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_assimetrica" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/f__Dobra_assimetrica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_parasitica_tipo_M" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/ampersand__Dobra_parasitica_tipo_M.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_parasitica_tipo_Z" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/uni00B2__Dobra_parasitica_tipo_Z.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_reclinada" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/brokenbar__Dobra_reclinada.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_tipo_caixa" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/g__Dobra_tipo_caixa.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_tipo_chevron" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/h__Dobra_tipo_chevron.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Dobra_tipo_kink" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/uni00B3__Dobra_tipo_kink.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="E" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/E.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Entelhamentos_cristais" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/i__Entelhamentos_cristais.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Estrias_deslizamento_flexural_dobras" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/acute__Estrias_deslizamento_flexural_dobras.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Estrias_falha_slinckenlines" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/divide_Estrias_falha_slinckenlines.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Estrias_glaciais" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/mu__Estrias_glaciais.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Eth" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Eth.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="F" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/F.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Flor_negativa" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/k__Flor_negativa.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Flor_positiva" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/l__Flor_positiva.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Fratura_vertical" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/ucircumflex_Fratura_vertical.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="G" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/G.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Garimpo_em_atividade" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/udieresis_Garimpo_em_atividade.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Garimpo_paralisado" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/yacute_Garimpo_paralisado.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Gouge_falha" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/paragraph__Gouge_falha.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="H" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/H.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Idieresis" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Idieresis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="J" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/J.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Junta_estiollitica" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/m__Junta_estiollitica.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Junta_hibrida" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/bracketright__Junta_hibrida.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="L" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/L.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_B_eixo_dobra_horizontal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/cent__Lineacao_B_eixo_dobra_horizontal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_B_eixo_dobra_vertical" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/currency__Lineacao_B_eixo_dobra_vertical.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_estiramento_horizontal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/exclamdown__Lineacao_estiramento_horizontal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_estiramento_horizontal_movimento_sinistral_indicado" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/asciitilde__Lineacao_estiramento_horizontal_movimento_sinistral_indicado.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_estiramento_movimetno_dextral" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/braceright__Lineacao_estiramento_movimetno_dextral.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_fluxo_magnetico_minerais_enclaves" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/d__Lineacao_fluxo_magnetico_minerais_enclaves.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Lineacao_mineral_vertical" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/thorn_Lineacao_mineral_vertical.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Mina_em_atividade" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/uni001F_Mina_em_atividade.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Mina_paralisada" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/space_Mina_paralisada.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Ocircumflex" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Ocircumflex.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Odieresis" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Odieresis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Oslash" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Oslash.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Otilde" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Otilde.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Pillow_lava" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/five__Pillow_lava.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Porfiroblastos_porfiroclastos_assimetricos_tipo_delta" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/K__Porfiroblastos_porfiroclastos_assimetricos_tipo_delta.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Porfiroblastos_porfiroclastos_assimetricos_tipo_sigma" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/M__Porfiroblastos_porfiroclastos_assimetricos_tipo_sigma.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Sentido_transporte_tectonico" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Igrave__Sentido_transporte_tectonico.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Seta_5" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Atilde__Seta_5.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Seta_6" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Edieresis__Seta_6.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Seta_7" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Ecircumflex__Seta_7.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Simbol_Anticlinal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Agrave__Simbol_Anticlinal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Simbol_Sinclinal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Eacute__Simbol_Sinclinal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Ugrave" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/Ugrave.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Veio_extensional" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/onequarter__Veio_extensional.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Veio_hibrido_sinistral" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/ydieresis_Veio_hibrido_sinistral.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Veio_laminado" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/guillemotright__Veio_laminado.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Xistosidade" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/A__Xistosidade.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Xistosidade_horizontal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/otilde__Xistosidade_horizontal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Xistosidade_vertical" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/ocircumflex__Xistosidade_vertical.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Zona_extensional_tipo_pull_apart" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/periodcentered__Zona_extensional_tipo_pull_apart.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="Zona_veios_escalonados_tension gashes" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/bar__Zona_veios_escalonados_tension gashes.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="a" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/a.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="asciicircum" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/asciicircum.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="asterisk" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/asterisk.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="at" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/at.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="b_small_letter" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/b_small_letter.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="backslash" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/backslash.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="braceleft" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/braceleft.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="c" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/c.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="cedilla" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/cedilla.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="copyright" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/copyright.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="degree" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/degree.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="dieresis" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/dieresis.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="dollar" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/dollar.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="e_small_letter" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/e_small_letter.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="equal" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/equal.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="exclam" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/exclam.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Point" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="grave" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/grave.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="greater" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/greater.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="guillemotleft" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/guillemotleft.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="j_small_letter" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/j_small_letter.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="less" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/less.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="logicalnot" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/logicalnot.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="macron" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/macron.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="multiply" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/multiply.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="oacute_small_letter" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/oacute_small_letter.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="ordmasculine" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/ordmasculine.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="oslash_small_letter" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/oslash_small_letter.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="plusminus" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/plusminus.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="questiondown" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/questiondown.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" clip_to_extent="1" alpha="1" force_rhr="0" name="threequarters" tags="Geologia">
+      <layer locked="0" enabled="1" class="SvgMarker" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="255,0,0,255" k="color"/>
+        <prop v="0" k="fixedAspectRatio"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="geologia_CPRM/threequarters.svg" k="name"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="35,35,35,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="diameter" k="scale_method"/>
+        <prop v="30" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+</qgis_style>
