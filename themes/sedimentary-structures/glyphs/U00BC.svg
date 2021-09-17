@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="7.1887mm" height="3.0316mm" version="1.1" viewBox="0 0 7.1887 3.0316" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-63.578 -108.01)">
+  <g transform="matrix(.01 0 0 .01 -21.695 -10.584)" clip-rule="evenodd" fill="none" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#000" stroke-width="50">
+   <path class="fil2 str1" d="m8531 12026c34-5 67-11 99-19 32-9 62-21 85-33s40-23 62-35 50-24 80-33 61-14 85-18 41-6 46 0c5 7-1 22-12 39s-27 34-35 46-9 18 0 24c10 6 30 11 71 13s103 0 145 0 65 0 88 1"/>
+   <path class="fil2 str1" d="m8528 12111c32-1 64-2 90-6 25-5 43-13 63-24 19-11 40-25 68-36 27-11 62-19 86-24s37-7 38 0c0 7-12 25-26 40-13 15-28 29-33 40s-2 19 15 25 47 10 88 11 93-2 146-6c52-4 105-8 158-13"/>
+  </g>
+ </g>
+</svg>

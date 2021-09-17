@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.3mm"
+   height="2.06mm"
+   version="1.1"
+   viewBox="0 0 6.3 2.06"
+   id="svg16"
+   sodipodi:docname="Olho_passaro.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="18.520833"
+     inkscape:cx="10.96063"
+     inkscape:cy="3.8929133"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-57.842 -109.81)"
+     id="g14">
+    <g
+       transform="matrix(.01 0 0 .01 -88.628 30.557)"
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="50"
+       id="g12">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 12.435547 -0.01171875 C 10.71813 -0.01171875 9.154748 0.33441456 7.9414062 0.95703125 C 7.0669802 1.4057528 6.318206 2.0478116 5.9648438 2.8613281 L 0 2.8613281 L 0 4.75 L 5.9023438 4.75 C 6.2237019 5.6365464 7.0128967 6.3301656 7.9414062 6.8066406 C 9.154748 7.4292573 10.71813 7.7753906 12.435547 7.7753906 C 14.152964 7.7753906 15.714393 7.4292573 16.927734 6.8066406 C 17.82822 6.3445464 18.598498 5.6784704 18.9375 4.8300781 C 20.549942 4.8374693 22.185991 4.8632812 23.810547 4.8632812 L 23.810547 2.9746094 C 22.210307 2.9746094 20.570491 2.9488396 18.943359 2.9414062 C 18.606245 2.088715 17.831402 1.4207585 16.927734 0.95703125 C 15.714393 0.33441456 14.152964 -0.01171875 12.435547 -0.01171875 z M 12.435547 1.8789062 C 13.89093 1.8789062 15.200479 2.1923597 16.066406 2.6367188 C 16.932334 3.0810778 17.234375 3.5643428 17.234375 3.8808594 C 17.234375 4.1973759 16.932334 4.6806409 16.066406 5.125 C 15.200479 5.5693591 13.89093 5.8847656 12.435547 5.8847656 C 10.980164 5.8847656 9.6706151 5.5693591 8.8046875 5.125 C 7.9387599 4.6806409 7.6347656 4.1973759 7.6347656 3.8808594 C 7.6347656 3.5643428 7.9387599 3.0810778 8.8046875 2.6367188 C 9.6706151 2.1923597 10.980164 1.8789062 12.435547 1.8789062 z "
+         transform="matrix(26.458333,0,0,26.458333,14647,7925.3)"
+         id="ellipse4" />
+      <path
+         style=""
+         d="m 14999,8026 a 23,12 0 0 1 -23,12 23,12 0 0 1 -23,-12 23,12 0 0 1 23,-12 23,12 0 0 1 23,12 z"
+         id="ellipse10" />
+    </g>
+  </g>
+</svg>

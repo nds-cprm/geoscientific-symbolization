@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.05mm"
+   height="3.1151mm"
+   version="1.1"
+   viewBox="0 0 9.05 3.1151"
+   id="svg14"
+   sodipodi:docname="Estratificacao_cruzada_swaley.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="12.892956"
+     inkscape:cx="15.745032"
+     inkscape:cy="5.886803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-57.771 -102.58)"
+     id="g12">
+    <g
+       transform="matrix(.01 0 0 .01 35.381 -44.952)"
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="50"
+       id="g10">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 0 -0.0078125 L 0 1.8828125 L 2.2148438 1.8828125 C 2.7060241 2.8895004 3.2245041 3.9139017 3.9277344 4.8632812 C 4.7483983 5.9711741 5.7514732 6.9293156 6.8457031 7.828125 L 6.8535156 7.8339844 L 6.8613281 7.8417969 C 7.9539706 8.7003165 9.211397 9.5683433 10.548828 10.216797 L 10.552734 10.21875 L 10.558594 10.220703 C 11.904986 10.854303 13.317778 11.340885 14.857422 11.583984 C 16.394541 11.826706 18.000327 11.825383 19.570312 11.583984 C 21.1271 11.344476 22.64948 10.896429 24.091797 10.072266 C 25.529064 9.2509743 26.777861 8.1493941 27.763672 7.2773438 C 28.767492 6.3893438 29.476824 5.680744 30.005859 5.0703125 C 30.562115 4.4284731 30.910136 3.8166868 31.220703 3.234375 C 31.448171 2.8078491 31.666633 2.3420491 31.884766 1.8828125 L 34.205078 1.8828125 L 34.205078 -0.0078125 L 0 -0.0078125 z M 4.3300781 1.8828125 L 7.6757812 1.8828125 C 7.9921217 2.4116768 8.3670812 2.9949958 9.0371094 3.5996094 C 9.8821513 4.3995842 11.053615 5.2133393 12.253906 5.8535156 C 13.44222 6.4872668 14.699853 6.999861 16.117188 7.1308594 C 17.566591 7.2990483 19.059677 7.0891693 20.330078 6.7207031 C 21.654973 6.347437 22.76442 5.7525784 23.691406 4.9941406 C 24.62789 4.227917 25.279957 3.3634417 25.720703 2.8125 L 25.732422 2.796875 L 25.744141 2.78125 C 26.015187 2.4116459 26.174392 2.1602396 26.359375 1.8828125 L 29.779297 1.8828125 C 29.704991 2.0304672 29.625648 2.2070459 29.552734 2.34375 C 29.258578 2.8952964 29.004546 3.3419655 28.578125 3.8339844 C 28.124483 4.3574111 27.473253 5.0107455 26.511719 5.8613281 C 25.532175 6.7278604 24.360746 7.741121 23.152344 8.4316406 C 21.948991 9.1192879 20.674447 9.5027622 19.283203 9.7167969 C 17.905157 9.9287906 16.487666 9.9274677 15.152344 9.7167969 C 13.821576 9.5066551 12.590986 9.0881979 11.369141 8.5136719 C 10.216661 7.9543396 9.0576914 7.1625502 8.0371094 6.3613281 C 7.0180203 5.5235581 6.1347399 4.6690277 5.4453125 3.7382812 C 5.0342339 3.1833382 4.676098 2.5470318 4.3300781 1.8828125 z M 9.9941406 1.8828125 L 24.039062 1.8828125 C 23.6126 2.4162669 23.124218 3.0157456 22.494141 3.53125 C 21.759185 4.1325728 20.904511 4.5971347 19.8125 4.9042969 L 19.810547 4.9042969 L 19.806641 4.90625 C 18.738327 5.216398 17.439512 5.3831405 16.324219 5.2519531 L 16.3125 5.2519531 L 16.298828 5.25 C 15.226414 5.1524882 14.220695 4.7595059 13.144531 4.1855469 C 12.082794 3.6192981 10.992057 2.8493764 10.326172 2.2167969 L 10.316406 2.2089844 L 10.308594 2.2011719 C 10.187885 2.0925335 10.091193 1.9875821 9.9941406 1.8828125 z "
+         transform="matrix(26.458334,0,0,26.458334,2239,14753.2)"
+         id="path4" />
+    </g>
+  </g>
+</svg>

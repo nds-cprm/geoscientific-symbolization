@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="5.901mm" height="4.5525mm" version="1.1" viewBox="0 0 5.901 4.5525" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-56.804 -108.72)">
+  <g transform="matrix(.01 0 0 .01 -89.701 25.396)" clip-rule="evenodd" fill="none" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#000" stroke-width="50">
+   <polyline class="fil2 str1" points="14673 8673 14803 8403 14938 8724 15081 8393 15218 8681"/>
+   <polyline class="fil2 str1" points="14733 8690 14799 8571 14848 8689"/>
+   <polyline class="fil2 str1" points="15018 8690 15084 8571 15133 8689"/>
+   <polyline class="fil2 str1" points="14876 8416 14942 8535 14991 8417"/>
+  </g>
+ </g>
+</svg>

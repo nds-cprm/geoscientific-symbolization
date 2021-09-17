@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.014mm"
+   height="3.7941mm"
+   version="1.1"
+   viewBox="0 0 4.014 3.7941"
+   id="svg14"
+   sodipodi:docname="Brecha_colapso.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="23.274519"
+     inkscape:cx="5.770276"
+     inkscape:cy="7.1699528"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:evenodd;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;enable-background:accumulate"
+     d="M 2.03642,-0.001355 -6.1e-4,1.92556 2.08621,3.79271 2.16974,3.71396 4.01341,1.97564 Z M 2.03158,0.347355 3.65459,1.97036 2.08179,3.45329 0.36859,1.92044 Z"
+     id="polygon6"
+     inkscape:connector-curvature="0" />
+  <g
+     aria-label="C"
+     style="font-weight:bold;font-size:2.46939993px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.01;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     id="text8">
+    <path
+       d="M 2.3946629,2.1330944 2.7407165,2.2428188 Q 2.6611363,2.5322016 2.475449,2.6732757 2.2909674,2.813144 2.0064077,2.813144 q -0.3520824,0 -0.5787656,-0.2399465 -0.2266832,-0.2411524 -0.2266832,-0.6583459 0,-0.4413088 0.2278889,-0.6848727 0.227889,-0.24476958 0.5992636,-0.24476958 0.3243499,0 0.5269178,0.19171608 0.1205762,0.1133416 0.1808643,0.3255557 L 2.3826053,1.5868844 Q 2.3512555,1.4494276 2.2511773,1.3698473 2.1523048,1.290267 2.010025,1.290267 q -0.1965392,0 -0.3195269,0.1410741 -0.1217819,0.1410742 -0.1217819,0.4569837 0,0.3352018 0.1205762,0.4774816 0.1205761,0.1422799 0.313498,0.1422799 0.1422799,0 0.2447696,-0.090432 0.1024898,-0.090432 0.1471029,-0.2845598 z"
+       style="font-weight:bold;font-size:2.46939993px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.01;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="path816" />
+  </g>
+</svg>

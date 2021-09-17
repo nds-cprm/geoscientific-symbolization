@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.32mm"
+   height="4.26mm"
+   version="1.1"
+   viewBox="0 0 4.32 4.26"
+   id="svg12"
+   sodipodi:docname="Concrecao_dolomitica.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="41.458144"
+     inkscape:cx="6.9698655"
+     inkscape:cy="8.0503941"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-62.856 -110.45)"
+     id="g10">
+    <g
+       transform="matrix(.01 0 0 .01 -85.014 60.437)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       text-rendering="geometricPrecision"
+       id="g8">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:50"
+         d="m 15194,5214 a 191,188 0 0 1 -191,188 191,188 0 0 1 -191,-188 191,188 0 0 1 191,-188 191,188 0 0 1 191,188 z"
+         id="ellipse4" />
+      <g
+         aria-label="D"
+         style="font-weight:bold;font-size:246.94000244px;font-family:Arial;fill:#000000"
+         id="text6">
+        <path
+           d="m 14937.845,5110.2353 h 65.232 q 22.065,0 33.641,3.3762 15.554,4.5819 26.647,16.2777 11.093,11.6959 16.881,28.6972 5.787,16.8806 5.787,41.7193 0,21.8243 -5.426,37.6198 -6.631,19.2922 -18.93,31.2292 -9.284,9.0432 -25.08,14.1074 -11.816,3.7379 -31.591,3.7379 h -67.161 z m 35.691,29.9029 v 117.0795 h 26.647 q 14.952,0 21.583,-1.6881 8.682,-2.1704 14.349,-7.3551 5.788,-5.1848 9.405,-17.0013 3.617,-11.937 3.617,-32.435 0,-20.4979 -3.617,-31.4703 -3.617,-10.9725 -10.129,-17.1219 -6.511,-6.1493 -16.519,-8.3197 -7.475,-1.6881 -29.3,-1.6881 z"
+           style="font-weight:bold;font-size:246.94000244px;font-family:Arial;fill:#000000"
+           id="path824" />
+      </g>
+    </g>
+  </g>
+</svg>

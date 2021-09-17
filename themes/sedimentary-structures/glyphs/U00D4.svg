@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.3472mm"
+   height="5.5675mm"
+   version="1.1"
+   viewBox="0 0 9.3472 5.5675"
+   id="svg24"
+   sodipodi:docname="Marca_ondul_cavalgante_subcritica.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="11.215387"
+     inkscape:cx="16.103644"
+     inkscape:cy="10.52126"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-62.28 -100.33)"
+     id="g22">
+    <g
+       transform="matrix(.01 0 0 .01 41.115 20.513)"
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000"
+       stroke-width="50"
+       id="g20">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 34.605469 0 L 0.09765625 8.390625 L 0.54492188 10.226562 L 1.5527344 9.9824219 L 1.5019531 13.751953 L -0.001953125 14.09375 L 0.41796875 15.9375 L 9.9414062 13.777344 L 9.8925781 17.097656 L 0.01171875 19.193359 L 0.40429688 21.042969 L 35.326172 13.634766 L 34.935547 11.787109 L 25.394531 13.810547 L 25.320312 10.287109 L 35.226562 8.0390625 L 34.808594 6.1953125 L 30.248047 7.2304688 L 30.222656 3.0097656 L 35.050781 1.8359375 L 34.605469 0 z M 28.335938 3.46875 L 28.361328 7.6582031 L 17.730469 10.070312 L 17.679688 6.0605469 L 28.335938 3.46875 z M 15.794922 6.5175781 L 15.845703 10.498047 L 3.3984375 13.322266 L 3.4492188 9.5195312 L 15.794922 6.5175781 z M 23.4375 10.714844 L 23.511719 14.208984 L 11.791016 16.695312 L 11.837891 13.345703 L 23.4375 10.714844 z "
+         transform="matrix(26.458332,0,0,26.458332,2116.5,7981.7)"
+         id="line4" />
+    </g>
+  </g>
+</svg>
