@@ -1,6 +1,8 @@
 # Simbologia Geocientífica da CPRM
 
-> (Descrição sumária do repoistório) Estudo das bibliotecas de símbolos da CPRM - Será abordado uma visão geral sobre o programa
+> <!--- (Descrição sumária do repoistório)--->
+> Estudo das bibliotecas de símbolos da CPRM 
+> <!---Será abordado uma visão geral sobre o programa--->
 
 <!--- (Isto é um comentário em markdown)
 [![NPM Version][npm-image]][npm-url]
@@ -8,9 +10,9 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 --->
 
-(Descrição mais detalhada) One to two paragraph statement about your product and what it does.
+<!---(Descrição mais detalhada) One to two paragraph statement about your product and what it does.
 
-![](https://via.placeholder.com/640x200.png?text=Screenshot+de+exemplo)
+![](https://via.placeholder.com/640x200.png?text=Screenshot+de+exemplo) --->
 
 ## Instalação do arquivo de fontes no Windows
 Windows:
@@ -51,7 +53,7 @@ edit autoexec.bat
 ```
 --->
 
-## Usage example
+<!---## Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
@@ -101,13 +103,13 @@ Creative Commons Attribution-NonCommercial 4.0  (CC-BY-NC 4.0) International Pub
 5. Create a new Pull Request
 --->
 
-<!-- Markdown link & img dfn's -->
+<!-- Markdown link & img dfn's
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/yourname/yourproject/wiki--->
 
 
 ## Aviso Legal (Disclaimer)
